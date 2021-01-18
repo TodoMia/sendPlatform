@@ -1,0 +1,48 @@
+{
+    "list": [{
+            "id": 1,
+            "name": "还呗w25",
+            "content":"【还呗】1尾号{phone}客户，您的还呗高额储备金已于{sendTime}到达。请1小时内查看 {url} 过期作废！退订回T",
+            "money": "网贷运营",
+            "address": "投放数据.csv",
+            "state": "成功",
+            "date": "lt-z-model-12-1228",
+            "timer": "2021-01-15 08:01:12",
+            "thumb": "https://lin-xin.gitee.io/images/post/wms.png"
+        },
+        {
+            "id": 2,
+            "name": "还呗w25",
+            "content":"【还呗】2尾号{phone}客户，您的还呗高额储备金已于{sendTime}到达。请1小时内查看 {url} 过期作废！退订回T",
+            "money": "网贷运营",
+            "address": "投放数据.csv",
+            "state": "成功",
+            "date": "lt-z-model-12-12281",
+            "timer": "2021-01-15 08:01:12",
+            "thumb": "https://lin-xin.gitee.io/images/post/node3.png"
+        },
+        {
+            "id": 3,
+            "name": "还呗w25",
+            "content":"【还呗】3尾号{phone}客户，您的还呗高额储备金已于{sendTime}到达。请1小时内查看 {url} 过期作废！退订回T",
+            "money": "网贷运营",
+            "address": "投放数据.csv",
+            "state": "失败",
+            "date": "lt-z-model-12-12281",
+            "timer": "2021-01-15 08:01:12",
+            "thumb": "https://lin-xin.gitee.io/images/post/parcel.png"
+        },
+        {
+            "id": 4,
+            "name": "还呗w25",
+            "content":"【还呗】4尾号{phone}客户，您的还呗高额储备金已于{sendTime}到达。请1小时内查看 {url} 过期作废！退订回T",
+            "money": "网贷运营",
+            "address": "投放数据.csv",
+            "state": "成功",
+            "date": "lt-z-model-12-12280",
+            "timer": "2021-01-15 08:01:12",
+            "thumb": "https://lin-xin.gitee.io/images/post/notice.png"
+        }
+    ],
+    "pageTotal": 4
+}
